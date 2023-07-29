@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src="https://www.canva.com/design/DAFnxbCOiG4/AcxSmExW9H8jRve4AfB8PQ/view"/>
+    <img src="https://ejaso.com/media/121nyi1a/ai-technology-brain-background-digital-transformation-concept.jpg?crop=0,0.11660836248542396,0,0.22845594746486403&cropmode=percentage&width=760&height=332"/>
     <h1 aling="center">Hola 👋 soy Victoria Guerzoni</h1>
     <h2 aling="center"> ... y estoy dando mis primero pasos en programación...</h2>
     <h3 aling="center"> Soy una profesional de salud que se animo durante la pandemia de Covid-19 a adentrame en el mundo IT, mi mayor motivación es poder fucionar mis conocimientos en salud y la programación para lograr generar herramientas que puedan ayudar y estar al alcance de todos</h3>
